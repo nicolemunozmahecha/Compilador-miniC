@@ -1,0 +1,6 @@
+pruebaread(){
+var int x, y;
+read(x, y);
+x = 0;
+
+}

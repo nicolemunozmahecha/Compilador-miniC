@@ -1,0 +1,10 @@
+mayorIgual(){
+var int x;
+const int a = 1, b = 2;
+
+print("b: ", b, " a: ", a);
+if(b>=a) x = 5;
+else x = 4;
+print("\nx = ", x);
+print("\nfin codigo");
+}

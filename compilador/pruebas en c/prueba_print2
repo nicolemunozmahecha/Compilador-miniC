@@ -1,0 +1,4 @@
+pruebaprint2(){
+const int a = 1, b = 0;
+print ( "tres = ", a+2, ", a = ", a, ", b = " , b);
+}

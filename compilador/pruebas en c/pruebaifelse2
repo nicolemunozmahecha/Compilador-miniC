@@ -1,0 +1,7 @@
+pruebaifelse2(){
+const int a=1, b=0;
+var int c;
+	if(a) c = b+a;
+	else 
+	c = 0;
+}

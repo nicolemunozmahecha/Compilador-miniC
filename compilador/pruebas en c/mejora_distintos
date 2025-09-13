@@ -1,0 +1,11 @@
+prueba(){
+const int a=1, b=2;
+
+var int c;
+
+print("a = ", a, "\nb = ", b);
+
+	if(a!=b) print("\n no iguales");
+	else 
+	print("\niguales : \na = ", a, "\nb = ", b);
+}

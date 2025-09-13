@@ -1,0 +1,8 @@
+prueba_tabSem_nuestro2(){
+
+var int x;
+const int a = 0, b= 0;
+print("a = " , a , "b = " , b);
+x = a-(2*4);
+print("\nx = " , x);
+}

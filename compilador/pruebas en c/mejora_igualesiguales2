@@ -1,0 +1,9 @@
+prueba(){
+const int a=1, b=1;
+
+print("a = ", a, "\nb = ", b);
+
+	if(a==b) print("\n SON IGUALES");
+	else 
+	print("\nNO SON IGUALES : \na = ", a, "\nb = ", b);
+}

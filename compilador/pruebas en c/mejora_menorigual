@@ -1,0 +1,10 @@
+menorIgual(){
+var int x;
+const int a = 7, b = 5;
+
+print("b: ", b, " a: ", a);
+if(b<=a) x = 8;
+else x = 4;
+print("\nx = ", x);
+print("\nfin codigo");
+}

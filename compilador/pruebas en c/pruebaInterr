@@ -1,0 +1,6 @@
+pruebaInterr(){
+var int c;
+const int a = 1;
+c = (a?1:2);
+print("c=", c);
+}

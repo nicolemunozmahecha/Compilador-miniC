@@ -1,0 +1,5 @@
+errLexicos2(){
+var int a;
+const int b = 383774748992938374;
+
+}

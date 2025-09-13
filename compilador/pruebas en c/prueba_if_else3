@@ -1,0 +1,9 @@
+pruebaifelse3(){
+const int a=0, b=0;
+var int c;
+	if(a) c = b+a;
+	else 
+	c = 5;
+	
+	print("c = ", c); 
+}

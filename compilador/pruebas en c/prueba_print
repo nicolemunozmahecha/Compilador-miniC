@@ -1,0 +1,6 @@
+pruebaprint(){
+var int x;
+const int a = 1;
+print ( "tres = ", a+2);
+x = 0;
+}

@@ -1,0 +1,11 @@
+prueba(){
+var int x;
+var int d;
+const int a = 5;
+d = 4;
+do{	x = a + 2;
+	d = d-2+1;}
+while(d);
+print("x = ", x);
+print("\nFin do while");
+}

@@ -1,0 +1,10 @@
+menor(){
+var int x;
+const int a = 1, b = 2;
+
+print("a: ", a, " b: ", b);
+if(b<a) x = 1;
+else x = 4;
+print("\nx = ", x);
+print("\nfin codigo");
+}

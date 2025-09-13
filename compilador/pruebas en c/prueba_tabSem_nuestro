@@ -1,0 +1,7 @@
+prueba_tabSem_nuestro(){
+
+var int x;
+const int a = 33333333333333333333, b= 0;
+x = a-(2*4);
+print("\nx = " , x);
+}
