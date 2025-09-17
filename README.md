@@ -81,6 +81,7 @@ Posteriormente, el archivo ensamblador puede ejecutarse y evaluarse con las herr
 
 Codigo en .c de la prueba if_else:
 
+```bash
 pruebaifelse(){
 const int a=1, b=0;
 var int c;
@@ -90,10 +91,11 @@ var int c;
 	
 	print("c = ", c); 
 }
-
+````
 
 Codigo en .s:
 
+```bash
 ###########################
 # Seccion de datos
 	.data
@@ -140,3 +142,4 @@ $l2:
 # Fin
 	li	$v0,   10
 	syscall
+````
