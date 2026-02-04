@@ -1,4 +1,5 @@
 # Compilador miniC → MIPS
+**[English description below]**
 
 Este proyecto consiste en la implementación de un compilador que traduce programas escritos en el lenguaje **miniC** a **código ensamblador MIPS**.  
 
